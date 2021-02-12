@@ -4,7 +4,7 @@ import * as path from 'path'
 import { TextChannel } from 'discord.js';
 
 const client = new Commando.CommandoClient({
-	commandPrefix: '!',
+	commandPrefix: '?',
 	owner: '269643701888745474'
 });
 

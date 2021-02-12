@@ -1,0 +1,28 @@
+{
+  "name": "k-9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/node": "^14.14.27",
+    "discord-paginationembed": "^2.1.0",
+    "discord.js": "^12.5.1",
+    "discord.js-commando": "^0.12.2",
+    "fuse.js": "^6.4.6",
+    "typescript": "^4.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justuscook/K-9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justuscook/K-9/issues"
+  },
+  "homepage": "https://github.com/justuscook/K-9#readme"
+}
